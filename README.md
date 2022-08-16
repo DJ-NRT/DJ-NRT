@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**DJ-NRT/DJ-NRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I'm actively developing my technical proficiency with Power Platform.
 - 🌱 I’m currently learning Power Platform in the NG30 Days of learning
